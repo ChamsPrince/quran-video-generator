@@ -1,0 +1,914 @@
+[
+  {
+    "number": 1,
+    "name_ar": "الفاتحة",
+    "name_en": "Al-Fatihah",
+    "translation_id": "Pembukaan",
+    "revelation": "Meccan",
+    "ayah_count": 7
+  },
+  {
+    "number": 2,
+    "name_ar": "البقرة",
+    "name_en": "Al-Baqarah",
+    "translation_id": "Sapi Betina",
+    "revelation": "Medinan",
+    "ayah_count": 286
+  },
+  {
+    "number": 3,
+    "name_ar": "آل عمران",
+    "name_en": "Ali 'Imran",
+    "translation_id": "Keluarga Imran",
+    "revelation": "Medinan",
+    "ayah_count": 200
+  },
+  {
+    "number": 4,
+    "name_ar": "النساء",
+    "name_en": "An-Nisa",
+    "translation_id": "Wanita",
+    "revelation": "Medinan",
+    "ayah_count": 176
+  },
+  {
+    "number": 5,
+    "name_ar": "المائدة",
+    "name_en": "Al-Ma'idah",
+    "translation_id": "Hidangan",
+    "revelation": "Medinan",
+    "ayah_count": 120
+  },
+  {
+    "number": 6,
+    "name_ar": "الأنعام",
+    "name_en": "Al-An'am",
+    "translation_id": "Hewan Ternak",
+    "revelation": "Meccan",
+    "ayah_count": 165
+  },
+  {
+    "number": 7,
+    "name_ar": "الأعراف",
+    "name_en": "Al-A'raf",
+    "translation_id": "Tempat yang Tertinggi",
+    "revelation": "Meccan",
+    "ayah_count": 206
+  },
+  {
+    "number": 8,
+    "name_ar": "الأنفال",
+    "name_en": "Al-Anfal",
+    "translation_id": "Rampasan Perang",
+    "revelation": "Medinan",
+    "ayah_count": 75
+  },
+  {
+    "number": 9,
+    "name_ar": "التوبة",
+    "name_en": "At-Tawbah",
+    "translation_id": "Pengampunan",
+    "revelation": "Medinan",
+    "ayah_count": 129
+  },
+  {
+    "number": 10,
+    "name_ar": "يونس",
+    "name_en": "Yunus",
+    "translation_id": "Nabi Yunus",
+    "revelation": "Meccan",
+    "ayah_count": 109
+  },
+  {
+    "number": 11,
+    "name_ar": "هود",
+    "name_en": "Hud",
+    "translation_id": "Nabi Hud",
+    "revelation": "Meccan",
+    "ayah_count": 123
+  },
+  {
+    "number": 12,
+    "name_ar": "يوسف",
+    "name_en": "Yusuf",
+    "translation_id": "Nabi Yusuf",
+    "revelation": "Meccan",
+    "ayah_count": 111
+  },
+  {
+    "number": 13,
+    "name_ar": "الرعد",
+    "name_en": "Ar-Ra'd",
+    "translation_id": "Guruh",
+    "revelation": "Medinan",
+    "ayah_count": 43
+  },
+  {
+    "number": 14,
+    "name_ar": "إبراهيم",
+    "name_en": "Ibrahim",
+    "translation_id": "Nabi Ibrahim",
+    "revelation": "Meccan",
+    "ayah_count": 52
+  },
+  {
+    "number": 15,
+    "name_ar": "الحجر",
+    "name_en": "Al-Hijr",
+    "translation_id": "Lembah Batu",
+    "revelation": "Meccan",
+    "ayah_count": 99
+  },
+  {
+    "number": 16,
+    "name_ar": "النحل",
+    "name_en": "An-Nahl",
+    "translation_id": "Lebah",
+    "revelation": "Meccan",
+    "ayah_count": 128
+  },
+  {
+    "number": 17,
+    "name_ar": "الإسراء",
+    "name_en": "Al-Isra",
+    "translation_id": "Perjalanan Malam",
+    "revelation": "Meccan",
+    "ayah_count": 111
+  },
+  {
+    "number": 18,
+    "name_ar": "الكهف",
+    "name_en": "Al-Kahf",
+    "translation_id": "Gua",
+    "revelation": "Meccan",
+    "ayah_count": 110
+  },
+  {
+    "number": 19,
+    "name_ar": "مريم",
+    "name_en": "Maryam",
+    "translation_id": "Maryam",
+    "revelation": "Meccan",
+    "ayah_count": 98
+  },
+  {
+    "number": 20,
+    "name_ar": "طه",
+    "name_en": "Taha",
+    "translation_id": "Taha",
+    "revelation": "Meccan",
+    "ayah_count": 135
+  },
+  {
+    "number": 21,
+    "name_ar": "الأنبياء",
+    "name_en": "Al-Anbiya",
+    "translation_id": "Para Nabi",
+    "revelation": "Meccan",
+    "ayah_count": 112
+  },
+  {
+    "number": 22,
+    "name_ar": "الحج",
+    "name_en": "Al-Hajj",
+    "translation_id": "Haji",
+    "revelation": "Medinan",
+    "ayah_count": 78
+  },
+  {
+    "number": 23,
+    "name_ar": "المؤمنون",
+    "name_en": "Al-Mu'minun",
+    "translation_id": "Orang-orang Mukmin",
+    "revelation": "Meccan",
+    "ayah_count": 118
+  },
+  {
+    "number": 24,
+    "name_ar": "النور",
+    "name_en": "An-Nur",
+    "translation_id": "Cahaya",
+    "revelation": "Medinan",
+    "ayah_count": 64
+  },
+  {
+    "number": 25,
+    "name_ar": "الفرقان",
+    "name_en": "Al-Furqan",
+    "translation_id": "Pembeda",
+    "revelation": "Meccan",
+    "ayah_count": 77
+  },
+  {
+    "number": 26,
+    "name_ar": "الشعراء",
+    "name_en": "Asy-Syu'ara",
+    "translation_id": "Para Penyair",
+    "revelation": "Meccan",
+    "ayah_count": 227
+  },
+  {
+    "number": 27,
+    "name_ar": "النمل",
+    "name_en": "An-Naml",
+    "translation_id": "Semut",
+    "revelation": "Meccan",
+    "ayah_count": 93
+  },
+  {
+    "number": 28,
+    "name_ar": "القصص",
+    "name_en": "Al-Qasas",
+    "translation_id": "Kisah-kisah",
+    "revelation": "Meccan",
+    "ayah_count": 88
+  },
+  {
+    "number": 29,
+    "name_ar": "العنكبوت",
+    "name_en": "Al-'Ankabut",
+    "translation_id": "Laba-laba",
+    "revelation": "Meccan",
+    "ayah_count": 69
+  },
+  {
+    "number": 30,
+    "name_ar": "الروم",
+    "name_en": "Ar-Rum",
+    "translation_id": "Bangsa Romawi",
+    "revelation": "Meccan",
+    "ayah_count": 60
+  },
+  {
+    "number": 31,
+    "name_ar": "لقمان",
+    "name_en": "Luqman",
+    "translation_id": "Luqman",
+    "revelation": "Meccan",
+    "ayah_count": 34
+  },
+  {
+    "number": 32,
+    "name_ar": "السجدة",
+    "name_en": "As-Sajdah",
+    "translation_id": "Sajdah",
+    "revelation": "Meccan",
+    "ayah_count": 30
+  },
+  {
+    "number": 33,
+    "name_ar": "الأحزاب",
+    "name_en": "Al-Ahzab",
+    "translation_id": "Golongan yang Bersekutu",
+    "revelation": "Medinan",
+    "ayah_count": 73
+  },
+  {
+    "number": 34,
+    "name_ar": "سبإ",
+    "name_en": "Saba",
+    "translation_id": "Kaum Saba",
+    "revelation": "Meccan",
+    "ayah_count": 54
+  },
+  {
+    "number": 35,
+    "name_ar": "فاطر",
+    "name_en": "Fatir",
+    "translation_id": "Pencipta",
+    "revelation": "Meccan",
+    "ayah_count": 45
+  },
+  {
+    "number": 36,
+    "name_ar": "يس",
+    "name_en": "Ya-Sin",
+    "translation_id": "Yasin",
+    "revelation": "Meccan",
+    "ayah_count": 83
+  },
+  {
+    "number": 37,
+    "name_ar": "الصافات",
+    "name_en": "As-Saffat",
+    "translation_id": "Barisan-barisan",
+    "revelation": "Meccan",
+    "ayah_count": 182
+  },
+  {
+    "number": 38,
+    "name_ar": "ص",
+    "name_en": "Sad",
+    "translation_id": "Sad",
+    "revelation": "Meccan",
+    "ayah_count": 88
+  },
+  {
+    "number": 39,
+    "name_ar": "الزمر",
+    "name_en": "Az-Zumar",
+    "translation_id": "Rombongan-rombongan",
+    "revelation": "Meccan",
+    "ayah_count": 75
+  },
+  {
+    "number": 40,
+    "name_ar": "غافر",
+    "name_en": "Ghafir",
+    "translation_id": "Maha Pengampun",
+    "revelation": "Meccan",
+    "ayah_count": 85
+  },
+  {
+    "number": 41,
+    "name_ar": "فصلت",
+    "name_en": "Fussilat",
+    "translation_id": "Yang Dijelaskan",
+    "revelation": "Meccan",
+    "ayah_count": 54
+  },
+  {
+    "number": 42,
+    "name_ar": "الشورى",
+    "name_en": "Asy-Syura",
+    "translation_id": "Musyawarah",
+    "revelation": "Meccan",
+    "ayah_count": 53
+  },
+  {
+    "number": 43,
+    "name_ar": "الزخرف",
+    "name_en": "Az-Zukhruf",
+    "translation_id": "Perhiasan",
+    "revelation": "Meccan",
+    "ayah_count": 89
+  },
+  {
+    "number": 44,
+    "name_ar": "الدخان",
+    "name_en": "Ad-Dukhan",
+    "translation_id": "Kabut",
+    "revelation": "Meccan",
+    "ayah_count": 59
+  },
+  {
+    "number": 45,
+    "name_ar": "الجاثية",
+    "name_en": "Al-Jasiyah",
+    "translation_id": "Yang Berlutut",
+    "revelation": "Meccan",
+    "ayah_count": 37
+  },
+  {
+    "number": 46,
+    "name_ar": "الأحقاف",
+    "name_en": "Al-Ahqaf",
+    "translation_id": "Bukit-bukit Pasir",
+    "revelation": "Meccan",
+    "ayah_count": 35
+  },
+  {
+    "number": 47,
+    "name_ar": "محمد",
+    "name_en": "Muhammad",
+    "translation_id": "Nabi Muhammad",
+    "revelation": "Medinan",
+    "ayah_count": 38
+  },
+  {
+    "number": 48,
+    "name_ar": "الفتح",
+    "name_en": "Al-Fath",
+    "translation_id": "Kemenangan",
+    "revelation": "Medinan",
+    "ayah_count": 29
+  },
+  {
+    "number": 49,
+    "name_ar": "الحجرات",
+    "name_en": "Al-Hujurat",
+    "translation_id": "Kamar-kamar",
+    "revelation": "Medinan",
+    "ayah_count": 18
+  },
+  {
+    "number": 50,
+    "name_ar": "ق",
+    "name_en": "Qaf",
+    "translation_id": "Qaf",
+    "revelation": "Meccan",
+    "ayah_count": 45
+  },
+  {
+    "number": 51,
+    "name_ar": "الذاريات",
+    "name_en": "Adz-Dzariyat",
+    "translation_id": "Angin yang Menerbangkan",
+    "revelation": "Meccan",
+    "ayah_count": 60
+  },
+  {
+    "number": 52,
+    "name_ar": "الطور",
+    "name_en": "At-Tur",
+    "translation_id": "Bukit",
+    "revelation": "Meccan",
+    "ayah_count": 49
+  },
+  {
+    "number": 53,
+    "name_ar": "النجم",
+    "name_en": "An-Najm",
+    "translation_id": "Bintang",
+    "revelation": "Meccan",
+    "ayah_count": 62
+  },
+  {
+    "number": 54,
+    "name_ar": "القمر",
+    "name_en": "Al-Qamar",
+    "translation_id": "Bulan",
+    "revelation": "Meccan",
+    "ayah_count": 55
+  },
+  {
+    "number": 55,
+    "name_ar": "الرحمن",
+    "name_en": "Ar-Rahman",
+    "translation_id": "Maha Pemurah",
+    "revelation": "Medinan",
+    "ayah_count": 78
+  },
+  {
+    "number": 56,
+    "name_ar": "الواقعة",
+    "name_en": "Al-Waqi'ah",
+    "translation_id": "Hari Kiamat",
+    "revelation": "Meccan",
+    "ayah_count": 96
+  },
+  {
+    "number": 57,
+    "name_ar": "الحديد",
+    "name_en": "Al-Hadid",
+    "translation_id": "Besi",
+    "revelation": "Medinan",
+    "ayah_count": 29
+  },
+  {
+    "number": 58,
+    "name_ar": "المجادلة",
+    "name_en": "Al-Mujadilah",
+    "translation_id": "Wanita yang Mengajukan Gugatan",
+    "revelation": "Medinan",
+    "ayah_count": 22
+  },
+  {
+    "number": 59,
+    "name_ar": "الحشر",
+    "name_en": "Al-Hasyr",
+    "translation_id": "Pengusiran",
+    "revelation": "Medinan",
+    "ayah_count": 24
+  },
+  {
+    "number": 60,
+    "name_ar": "الممتحنة",
+    "name_en": "Al-Mumtahanah",
+    "translation_id": "Wanita yang Diuji",
+    "revelation": "Medinan",
+    "ayah_count": 13
+  },
+  {
+    "number": 61,
+    "name_ar": "الصف",
+    "name_en": "As-Saff",
+    "translation_id": "Barisan",
+    "revelation": "Medinan",
+    "ayah_count": 14
+  },
+  {
+    "number": 62,
+    "name_ar": "الجمعة",
+    "name_en": "Al-Jumu'ah",
+    "translation_id": "Hari Jumat",
+    "revelation": "Medinan",
+    "ayah_count": 11
+  },
+  {
+    "number": 63,
+    "name_ar": "المنافقون",
+    "name_en": "Al-Munafiqun",
+    "translation_id": "Orang-orang Munafik",
+    "revelation": "Medinan",
+    "ayah_count": 11
+  },
+  {
+    "number": 64,
+    "name_ar": "التغابن",
+    "name_en": "At-Taghabun",
+    "translation_id": "Hari Dinampakkan Kesalahan",
+    "revelation": "Medinan",
+    "ayah_count": 18
+  },
+  {
+    "number": 65,
+    "name_ar": "الطلاق",
+    "name_en": "At-Talaq",
+    "translation_id": "Talak",
+    "revelation": "Medinan",
+    "ayah_count": 12
+  },
+  {
+    "number": 66,
+    "name_ar": "التحريم",
+    "name_en": "At-Tahrim",
+    "translation_id": "Mengharamkan",
+    "revelation": "Medinan",
+    "ayah_count": 12
+  },
+  {
+    "number": 67,
+    "name_ar": "الملك",
+    "name_en": "Al-Mulk",
+    "translation_id": "Kerajaan",
+    "revelation": "Meccan",
+    "ayah_count": 30
+  },
+  {
+    "number": 68,
+    "name_ar": "القلم",
+    "name_en": "Al-Qalam",
+    "translation_id": "Pena",
+    "revelation": "Meccan",
+    "ayah_count": 52
+  },
+  {
+    "number": 69,
+    "name_ar": "الحاقة",
+    "name_en": "Al-Haqqah",
+    "translation_id": "Hari Kiamat (Yang Pasti Terjadi)",
+    "revelation": "Meccan",
+    "ayah_count": 52
+  },
+  {
+    "number": 70,
+    "name_ar": "المعارج",
+    "name_en": "Al-Ma'arij",
+    "translation_id": "Tempat-tempat Naik",
+    "revelation": "Meccan",
+    "ayah_count": 44
+  },
+  {
+    "number": 71,
+    "name_ar": "نوح",
+    "name_en": "Nuh",
+    "translation_id": "Nabi Nuh",
+    "revelation": "Meccan",
+    "ayah_count": 28
+  },
+  {
+    "number": 72,
+    "name_ar": "الجن",
+    "name_en": "Al-Jinn",
+    "translation_id": "Jin",
+    "revelation": "Meccan",
+    "ayah_count": 28
+  },
+  {
+    "number": 73,
+    "name_ar": "المزمل",
+    "name_en": "Al-Muzzammil",
+    "translation_id": "Orang yang Berselimut",
+    "revelation": "Meccan",
+    "ayah_count": 20
+  },
+  {
+    "number": 74,
+    "name_ar": "المدثر",
+    "name_en": "Al-Muddassir",
+    "translation_id": "Orang yang Berkemul",
+    "revelation": "Meccan",
+    "ayah_count": 56
+  },
+  {
+    "number": 75,
+    "name_ar": "القيامة",
+    "name_en": "Al-Qiyamah",
+    "translation_id": "Hari Kiamat",
+    "revelation": "Meccan",
+    "ayah_count": 40
+  },
+  {
+    "number": 76,
+    "name_ar": "الانسان",
+    "name_en": "Al-Insan",
+    "translation_id": "Manusia",
+    "revelation": "Medinan",
+    "ayah_count": 31
+  },
+  {
+    "number": 77,
+    "name_ar": "المرسلات",
+    "name_en": "Al-Mursalat",
+    "translation_id": "Malaikat-malaikat yang Diutus",
+    "revelation": "Meccan",
+    "ayah_count": 50
+  },
+  {
+    "number": 78,
+    "name_ar": "النبإ",
+    "name_en": "An-Naba",
+    "translation_id": "Berita Besar",
+    "revelation": "Meccan",
+    "ayah_count": 40
+  },
+  {
+    "number": 79,
+    "name_ar": "النازعات",
+    "name_en": "An-Nazi'at",
+    "translation_id": "Malaikat-malaikat yang Mencabut",
+    "revelation": "Meccan",
+    "ayah_count": 46
+  },
+  {
+    "number": 80,
+    "name_ar": "عبس",
+    "name_en": "'Abasa",
+    "translation_id": "Bermuka Masam",
+    "revelation": "Meccan",
+    "ayah_count": 42
+  },
+  {
+    "number": 81,
+    "name_ar": "التكوير",
+    "name_en": "At-Takwir",
+    "translation_id": "Menggulung",
+    "revelation": "Meccan",
+    "ayah_count": 29
+  },
+  {
+    "number": 82,
+    "name_ar": "الانفطار",
+    "name_en": "Al-Infitar",
+    "translation_id": "Terbelah",
+    "revelation": "Meccan",
+    "ayah_count": 19
+  },
+  {
+    "number": 83,
+    "name_ar": "المطففين",
+    "name_en": "Al-Mutaffifin",
+    "translation_id": "Orang-orang yang Curang",
+    "revelation": "Meccan",
+    "ayah_count": 36
+  },
+  {
+    "number": 84,
+    "name_ar": "الانشقاق",
+    "name_en": "Al-Insiqaq",
+    "translation_id": "Terbelah",
+    "revelation": "Meccan",
+    "ayah_count": 25
+  },
+  {
+    "number": 85,
+    "name_ar": "البروج",
+    "name_en": "Al-Buruj",
+    "translation_id": "Gugusan Bintang",
+    "revelation": "Meccan",
+    "ayah_count": 22
+  },
+  {
+    "number": 86,
+    "name_ar": "الطارق",
+    "name_en": "At-Tariq",
+    "translation_id": "Yang Datang di Malam Hari",
+    "revelation": "Meccan",
+    "ayah_count": 17
+  },
+  {
+    "number": 87,
+    "name_ar": "الأعلى",
+    "name_en": "Al-A'la",
+    "translation_id": "Yang Maha Tinggi",
+    "revelation": "Meccan",
+    "ayah_count": 19
+  },
+  {
+    "number": 88,
+    "name_ar": "الغاشية",
+    "name_en": "Al-Ghasyiyah",
+    "translation_id": "Hari Pembalasan (Yang Menutupi)",
+    "revelation": "Meccan",
+    "ayah_count": 26
+  },
+  {
+    "number": 89,
+    "name_ar": "الفجر",
+    "name_en": "Al-Fajr",
+    "translation_id": "Fajar",
+    "revelation": "Meccan",
+    "ayah_count": 30
+  },
+  {
+    "number": 90,
+    "name_ar": "البلد",
+    "name_en": "Al-Balad",
+    "translation_id": "Negeri",
+    "revelation": "Meccan",
+    "ayah_count": 20
+  },
+  {
+    "number": 91,
+    "name_ar": "الشمس",
+    "name_en": "Asy-Syams",
+    "translation_id": "Matahari",
+    "revelation": "Meccan",
+    "ayah_count": 15
+  },
+  {
+    "number": 92,
+    "name_ar": "الليل",
+    "name_en": "Al-Lail",
+    "translation_id": "Malam",
+    "revelation": "Meccan",
+    "ayah_count": 21
+  },
+  {
+    "number": 93,
+    "name_ar": "الضحى",
+    "name_en": "Ad-Duha",
+    "translation_id": "Waktu Duha",
+    "revelation": "Meccan",
+    "ayah_count": 11
+  },
+  {
+    "number": 94,
+    "name_ar": "الشرح",
+    "name_en": "Asy-Syarh",
+    "translation_id": "Melapangkan",
+    "revelation": "Meccan",
+    "ayah_count": 8
+  },
+  {
+    "number": 95,
+    "name_ar": "التين",
+    "name_en": "At-Tin",
+    "translation_id": "Buah Tin",
+    "revelation": "Meccan",
+    "ayah_count": 8
+  },
+  {
+    "number": 96,
+    "name_ar": "العلق",
+    "name_en": "Al-'Alaq",
+    "translation_id": "Segumpal Darah",
+    "revelation": "Meccan",
+    "ayah_count": 19
+  },
+  {
+    "number": 97,
+    "name_ar": "القدر",
+    "name_en": "Al-Qadr",
+    "translation_id": "Kemuliaan",
+    "revelation": "Meccan",
+    "ayah_count": 5
+  },
+  {
+    "number": 98,
+    "name_ar": "البينة",
+    "name_en": "Al-Bayyinah",
+    "translation_id": "Bukti Nyata",
+    "revelation": "Medinan",
+    "ayah_count": 8
+  },
+  {
+    "number": 99,
+    "name_ar": "الزلزلة",
+    "name_en": "Az-Zalzalah",
+    "translation_id": "Kegoncangan",
+    "revelation": "Medinan",
+    "ayah_count": 8
+  },
+  {
+    "number": 100,
+    "name_ar": "العاديات",
+    "name_en": "Al-'Adiyat",
+    "translation_id": "Kuda Perang yang Berlari Kencang",
+    "revelation": "Meccan",
+    "ayah_count": 11
+  },
+  {
+    "number": 101,
+    "name_ar": "القارعة",
+    "name_en": "Al-Qari'ah",
+    "translation_id": "Hari Kiamat (Yang Mengetuk)",
+    "revelation": "Meccan",
+    "ayah_count": 11
+  },
+  {
+    "number": 102,
+    "name_ar": "التكاثر",
+    "name_en": "At-Takasur",
+    "translation_id": "Bermegah-megahan",
+    "revelation": "Meccan",
+    "ayah_count": 8
+  },
+  {
+    "number": 103,
+    "name_ar": "العصر",
+    "name_en": "Al-'Asr",
+    "translation_id": "Demi Masa",
+    "revelation": "Meccan",
+    "ayah_count": 3
+  },
+  {
+    "number": 104,
+    "name_ar": "الهمزة",
+    "name_en": "Al-Humazah",
+    "translation_id": "Pengumpat",
+    "revelation": "Meccan",
+    "ayah_count": 9
+  },
+  {
+    "number": 105,
+    "name_ar": "الفيل",
+    "name_en": "Al-Fil",
+    "translation_id": "Gajah",
+    "revelation": "Meccan",
+    "ayah_count": 5
+  },
+  {
+    "number": 106,
+    "name_ar": "قريش",
+    "name_en": "Quraisy",
+    "translation_id": "Suku Quraisy",
+    "revelation": "Meccan",
+    "ayah_count": 4
+  },
+  {
+    "number": 107,
+    "name_ar": "الماعون",
+    "name_en": "Al-Ma'un",
+    "translation_id": "Barang-barang yang Berguna",
+    "revelation": "Meccan",
+    "ayah_count": 7
+  },
+  {
+    "number": 108,
+    "name_ar": "الكوثر",
+    "name_en": "Al-Kausar",
+    "translation_id": "Nikmat yang Banyak",
+    "revelation": "Meccan",
+    "ayah_count": 3
+  },
+  {
+    "number": 109,
+    "name_ar": "الكافرون",
+    "name_en": "Al-Kafirun",
+    "translation_id": "Orang-orang Kafir",
+    "revelation": "Meccan",
+    "ayah_count": 6
+  },
+  {
+    "number": 110,
+    "name_ar": "النصر",
+    "name_en": "An-Nasr",
+    "translation_id": "Pertolongan",
+    "revelation": "Medinan",
+    "ayah_count": 3
+  },
+  {
+    "number": 111,
+    "name_ar": "المسد",
+    "name_en": "Al-Masad",
+    "translation_id": "Gejolak Api (Sabut)",
+    "revelation": "Meccan",
+    "ayah_count": 5
+  },
+  {
+    "number": 112,
+    "name_ar": "الإخلاص",
+    "name_en": "Al-Ikhlas",
+    "translation_id": "Ikhlas (Memurnikan Keesaan Allah)",
+    "revelation": "Meccan",
+    "ayah_count": 4
+  },
+  {
+    "number": 113,
+    "name_ar": "الفلق",
+    "name_en": "Al-Falaq",
+    "translation_id": "Waktu Subuh",
+    "revelation": "Meccan",
+    "ayah_count": 5
+  },
+  {
+    "number": 114,
+    "name_ar": "الناس",
+    "name_en": "An-Nas",
+    "translation_id": "Manusia",
+    "revelation": "Meccan",
+    "ayah_count": 6
+  }
+]
