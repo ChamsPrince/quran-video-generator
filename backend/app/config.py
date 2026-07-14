@@ -1,0 +1,1 @@
+QURAN_API = "https://api.alquran.cloud"
